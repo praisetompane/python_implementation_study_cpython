@@ -1,3 +1,14 @@
+/* Praise: This where the range object lives
+
+Example:
+    1: 
+        for i in range(1, 10):
+            print(i)
+
+    2: 
+        numbers = range(1, 10)
+*/
+
 /* Range object implementation */
 
 #include "Python.h"

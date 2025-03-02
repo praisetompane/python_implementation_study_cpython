@@ -1,3 +1,5 @@
+/* Praise: Is this where compilation of the interpreter starts*/
+
 /* Minimal main program -- everything is loaded from the library */
 
 #include "Python.h"
